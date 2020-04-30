@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogConsoleTest", "SerilogConsoleTest\SerilogConsoleTest.csproj", "{339A793E-F727-4D4E-BC4E-C968B9F002EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339A793E-F727-4D4E-BC4E-C968B9F002EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339A793E-F727-4D4E-BC4E-C968B9F002EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339A793E-F727-4D4E-BC4E-C968B9F002EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339A793E-F727-4D4E-BC4E-C968B9F002EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3088C82-AB42-43EC-AD2D-0EB1E07AE733}
+	EndGlobalSection
+EndGlobal
